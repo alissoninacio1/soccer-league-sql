@@ -26,4 +26,4 @@ You can view the design of the database and user interface mock-ups [here](https
 
 ## Invite Questions from the Audience for Clarification or Further Discussion
 
-We invite you to ask any questions or seek further clarification on any aspect of this project. Whether it is about the database schema, the SQL operations, or the quality assurance processes, we are here to discuss and ensure a clear understanding of the project details and methodologies used.
+I invite you to ask any questions or seek further clarification on any aspect of this project. 
